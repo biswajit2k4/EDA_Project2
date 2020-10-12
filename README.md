@@ -27,7 +27,7 @@ The below Six plots address the above Questions.
 
 ### Plot 2
 
-![Plot2](Plot3.png) 
+![Plot2](Plot2.png) 
 
 
 ### Plot 3
